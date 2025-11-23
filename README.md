@@ -1,7 +1,7 @@
 
 <br>
 <div align="center">
-  <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
+  <img align="left" width="200" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
   <h3>Hi there, I'm Ravula Ajay! 👋</h3>
 </div>
 
