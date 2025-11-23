@@ -1,30 +1,103 @@
-<h1 align="center">Hi 👋, I'm Ravula Ajay</h1>
-<h3 align="center">A passionate Full Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravulaajay&label=Profile%20views&color=0e75b6&style=flat" alt="ravulaajay" /> </p>
+<br>
+<div align="center">
+  <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
+  <h3>Hi there, I'm Ravula Ajay! 👋</h3>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravulaajay" alt="ravulaajay" /></a> </p>
+<br>
+<br>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-- 👨‍💻 All of my projects are available at [ravula-ajay-portfolio-website.vercel.app](ravula-ajay-portfolio-website.vercel.app)
+<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
+<p><em>Computer Science Student</em></p>
 
-- 📫 How to reach me **ravulaajay9@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1muCJBdrYuc4B1RTVnnhHE86oYRh5TcPn/view?usp=sharing](https://drive.google.com/file/d/1muCJBdrYuc4B1RTVnnhHE86oYRh5TcPn/view?usp=sharing)
+[![Site ravula-ajay-portfolio-website.vercel.app](https://img.shields.io/badge/do%20visit-ravula--ajay--portfolio--website.vercel.app-informational)](https://ravula-ajay-portfolio-website.vercel.app/)
+[![GitHub RAVULAAJAY](https://img.shields.io/github/followers/RAVULAAJAY?label=follow&style=social)](https://github.com/RAVULAAJAY)
+[![LinkedIn: ravula-ajay-42612a288](https://img.shields.io/badge/-ravula--ajay--42612a288-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ravula-ajay-42612a288/)](https://www.linkedin.com/in/ravula-ajay-42612a288/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ravula-ajay-42612a288/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravula-ajay-42612a288/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ravula-ajay/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ravula-ajay/" height="30" width="40" /></a>
+
+
+
+
+## About Me
+Hi! I’m Ravula Ajay, a passionate CSE (AIML) student & Full Stack Developer who loves building real-world applications that solve everyday problems. I enjoy creating smart, user-friendly solutions using modern technologies — from AI-powered systems to full-stack web apps.
+
+👨‍💻 What I Do
+
+🌐 Full Stack Development – React, Tailwind, Node.js, Express, MongoDB
+
+🤖 AI & Machine Learning Projects – computer vision, face recognition, prediction models
+
+📱 Mobile App Development (Beginner) – Working on real-world mobile-based systems
+
+---
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> 
+
+| Category | Skills |
+|---|---|
+| Languages | <div align="center"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> </div> |
+| Frameworks | <div align="center"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/> </div> |
+| Libraries | <div align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/> <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </div> |
+| Databases | <div align="center"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> </div> |
+| Cloud | <div align="center"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white"/> </div> |
+| Developer Tools | <div align="center"> <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img src="https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=PyCharm&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=white"/> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/> </div> |
+| Foundational Skills | <div align="center"> <img src="https://img.shields.io/badge/Data%20Structures-FF6C37?style=for-the-badge"/> <img src="https://img.shields.io/badge/Artificial%20Intelligence-4CAF50?style=for-the-badge"/> <img src="https://img.shields.io/badge/Computer%20Networks-007ACC?style=for-the-badge"/> <img src="https://img.shields.io/badge/Operating%20Systems-9C27B0?style=for-the-badge"/> <img src="https://img.shields.io/badge/Cybersecurity-FFC107?style=for-the-badge"/> </div> |
+---
+## Projects
+
+### [Online Book Store](https://github.com/RAVULAAJAY/Online-Book-Store)
+A full-stack e-commerce platform for purchasing and managing books with cart functionality, user authentication, and payment integration. Built with **React**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates complete e-commerce workflows including inventory management and secure transactions.
+
+### [FarmDirect – Farmer E-Market App](https://github.com/RAVULAAJAY/FarmDirect)
+Platform connecting farmers directly to buyers with features like crop listing, buyer-farmer chat, and integrated logistics management. Developed using **React**, **Node.js**, **MongoDB**, and **Socket.io** for real-time communication, enabling seamless agricultural marketplace transactions.
+
+### [AI-Powered Student Verification System](https://github.com/RAVULAAJAY/AI-Student-Verification)
+Facial recognition and barcode-based student authentication system for secure campus access and attendance tracking. Built with **Python**, **OpenCV**, **TensorFlow**, and **Flask**, this system uses deep learning for accurate face recognition and automated attendance management.
+
+### [College Event Management App](https://github.com/RAVULAAJAY/Event-Management-App)
+QR-based entry system with event registration, real-time attendance tracking, and automated feedback collection. Developed using **React**, **Node.js**, **MongoDB**, and **QR API**, streamlining event organization and visitor management.
+
+### [Smart Campus Store App](https://github.com/RAVULAAJAY/Smart-Campus-Store)
+Marketplace platform for students to buy and sell used items with integrated QR code payment system and user ratings. Built with **React Native**, **Node.js**, **MongoDB**, and **Stripe**, enabling seamless peer-to-peer transactions on campus.
+
+### [Sustainability Image Classification](https://github.com/RAVULAAJAY/Sustainability-Classification)
+Deep learning CNN model for image classification promoting environmental sustainability awareness and waste management. Developed using **Python**, **TensorFlow**, **Keras**, and **CNN**, this project leverages computer vision for ecological impact.
+
+### [View All Projects on Portfolio](https://ravula-ajay-portfolio-website.vercel.app/)
+
+
+---
+## 🏆 Achievements
+
+- **AWS Academy Cloud Foundations:** Completed AWS Academy Cloud Virtual Internship through EduSkills & AICTE, demonstrating expertise in cloud technologies and infrastructure (2024).
+
+- **EduNet Foundation Internship:** Completed a 4-week virtual internship in the Artificial Intelligence and Machine Learning (AI & ML) domain, gaining practical experience and industry exposure (Nov 2025).
+
+- **University Recognition:** Received recognition from SR University for securing the **top position in both 2.1 and 2.2 semesters**, demonstrating consistent academic excellence and dedication to learning (2024).
+
+- **AICTE Virtual Internship:** Successfully completed the **GEN-AI Virtual Internship** (Jan–Mar 2025) under AICTE and EduSkills. Certificate ID: 0b1b032a67183119f6f92f54e887d82d.
+
+- **Full-Stack Development:** Expertise across React, Node.js, Express, MongoDB, and modern web technologies with **10+ production projects**.
+
+- **AI & ML Specialization:** B.Tech Computer Science and Engineering with AIML specialization at SR University (2023-2027), with hands-on experience in TensorFlow, OpenCV, and deep learning models.
+
+- **Certifications:** Completed certifications in **TCS ION**, **Microsoft Azure Fundamentals**, and **Salesforce**, demonstrating commitment to continuous learning across cloud and enterprise platforms.
+
+---
+### 🤝 Connect With Me
+<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/ravula-ajay-42612a288/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ravulaajay9@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-FF6347?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/RAVULAAJAY" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://ravula-ajay-portfolio-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/Ravula-Ajay/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1OD8CmPTqa7GdMw_VYbwiIbOe4bXb-VQj/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://github.com/RAVULAAJAY" target="_blank"><img src="https://img.shields.io/badge/Projects-2C974B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ravulaajay&show_icons=true&locale=en&layout=compact" alt="ravulaajay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ravulaajay&show_icons=true&locale=en" alt="ravulaajay" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ravulaajay&" alt="ravulaajay" /></p>
-
+---
