@@ -1,8 +1,8 @@
 
 <br>
 <div align="center">
-  <img align="left" width="200" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
-  <h3>Hi there, I'm Ravula Ajay! 👋</h3>
+  <img align="left" width="120" src="https://media.giphy.com/media/jaWhf74YRaDxHS3RCn/giphy.gif">
+  <h1>Hi there, I'm Ravula Ajay! 👋</h1>
 </div>
 
 <br>
@@ -10,8 +10,8 @@
 
 ---
 
-<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="125" height="105">
-<p><em>Computer Science Student</em></p>
+<img align='right' src="https://user-images.githubusercontent.com/30077154/124391673-67c2ce00-dd0f-11eb-822a-d7be47c815a5.gif" width="200" height="160">
+<p><em><strong>Computer Science Student</strong></em></p>
 
 
 [![Site ravula-ajay-portfolio-website.vercel.app](https://img.shields.io/badge/do%20visit-ravula--ajay--portfolio--website.vercel.app-informational)](https://ravula-ajay-portfolio-website.vercel.app/)
