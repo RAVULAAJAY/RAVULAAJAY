@@ -95,7 +95,7 @@ Deep learning CNN model for image classification promoting environmental sustain
   <a href="https://github.com/RAVULAAJAY" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://ravula-ajay-portfolio-website.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="https://leetcode.com/u/Ravula-Ajay/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1muCJBdrYuc4B1RTVnnhHE86oYRh5TcPn/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1thDW7p-dOddLa3_HEBrdxSlMtltr4umy/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/Resume-DC143C?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/></a>
   <a href="https://github.com/RAVULAAJAY" target="_blank"><img src="https://img.shields.io/badge/Projects-2C974B?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 <br/>
