@@ -75,7 +75,7 @@ Real-time computer vision application that detects and classifies objects from w
 
 - **EduNet Foundation Internship:** Completed a 4-week virtual internship in the Artificial Intelligence and Machine Learning (AI & ML) domain, gaining practical experience and industry exposure (Nov 2025).
 
-- **AICTE Virtual Internship:** Successfully completed the **GEN-AI Virtual Internship** (Jan–Mar 2025) under AICTE and EduSkills. Certificate ID: 0b1b032a67183119f6f92f54e887d82d
+- **AICTE Virtual Internship:** Successfully completed the **GEN-AI Virtual Internship** (Jan–Mar 2025) under AICTE and EduSkills. Certificate ID: 0b1b032a67183119f6f92f54e887d82d.
   - 
 - **AWS Academy Cloud Foundations:** Completed AWS Academy Cloud Virtual Internship through EduSkills & AICTE, demonstrating expertise in cloud technologies and infrastructure (2024).
 
