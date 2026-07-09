@@ -73,19 +73,19 @@ Real-time computer vision application that detects and classifies objects from w
 ---
 ## 🏆 Achievements
 
-- **AWS Academy Cloud Foundations:** Completed AWS Academy Cloud Virtual Internship through EduSkills & AICTE, demonstrating expertise in cloud technologies and infrastructure (2024).
-
 - **EduNet Foundation Internship:** Completed a 4-week virtual internship in the Artificial Intelligence and Machine Learning (AI & ML) domain, gaining practical experience and industry exposure (Nov 2025).
 
-- **University Recognition:** Received recognition from SR University for securing the **top position in both 2.1 and 2.2 semesters**, demonstrating consistent academic excellence and dedication to learning (2024).
+- **AICTE Virtual Internship:** Successfully completed the **GEN-AI Virtual Internship** (Jan–Mar 2025) under AICTE and EduSkills. Certificate ID: 0b1b032a67183119f6f92f54e887d82d
+  - 
+- **AWS Academy Cloud Foundations:** Completed AWS Academy Cloud Virtual Internship through EduSkills & AICTE, demonstrating expertise in cloud technologies and infrastructure (2024).
 
-- **AICTE Virtual Internship:** Successfully completed the **GEN-AI Virtual Internship** (Jan–Mar 2025) under AICTE and EduSkills. Certificate ID: 0b1b032a67183119f6f92f54e887d82d.
+- **University Recognition:** Received recognition from SR University for securing the **top position in both 2.1 and 2.2 semesters**, demonstrating consistent academic excellence and dedication to learning (2024).
 
 - **Full-Stack Development:** Expertise across React, Node.js, Express, MongoDB, and modern web technologies with **10+ production projects**.
 
 - **AI & ML Specialization:** B.Tech Computer Science and Engineering with AIML specialization at SR University (2023-2027), with hands-on experience in TensorFlow, OpenCV, and deep learning models.
 
-- **Certifications:** Completed certifications in **TCS ION**, **Microsoft Azure Fundamentals**, and **Salesforce**, demonstrating commitment to continuous learning across cloud and enterprise platforms.
+- **Certifications:** Completed certifications in **TCS ION**, **Microsoft Azure Fundamentals**, and **Salesforce**, demonstrating commitment to continuous learning across cloud and enterprise platforms
 
 ---
 ### 🤝 Connect With Me
