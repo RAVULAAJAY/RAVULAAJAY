@@ -48,23 +48,24 @@ Hi! I’m Ravula Ajay, a passionate CSE (AIML) student & Full Stack Developer wh
 ---
 ## Projects
 
-### [Online Book Store](https://github.com/RAVULAAJAY/Online-Book-Store)
-A full-stack e-commerce platform for purchasing and managing books with cart functionality, user authentication, and payment integration. Built with **React**, **Node.js**, **Express**, and **MongoDB**, this project demonstrates complete e-commerce workflows including inventory management and secure transactions.
-
 ### [FarmDirect – Farmer E-Market App](https://github.com/RAVULAAJAY/FarmDirect)
-Platform connecting farmers directly to buyers with features like crop listing, buyer-farmer chat, and integrated logistics management. Developed using **React**, **Node.js**, **MongoDB**, and **Socket.io** for real-time communication, enabling seamless agricultural marketplace transactions.
+Platform connecting farmers directly to buyers with features like crop listing, buyer-farmer chat, and integrated logistics management. Developed using **React**, **React**, **TypeScript**, **Node.js**, **Tailwind CSS**,**Firebase** and **Socket.io** for real-time communication, enabling seamless agricultural marketplace transactions.
 
-### [AI-Powered Student Verification System](https://github.com/RAVULAAJAY/AI-Student-Verification)
-Facial recognition and barcode-based student authentication system for secure campus access and attendance tracking. Built with **Python**, **OpenCV**, **TensorFlow**, and **Flask**, this system uses deep learning for accurate face recognition and automated attendance management.
+### [Face Recognition Attendance System](https://github.com/RAVULAAJAY/Face-Recognition-Attendance-System.git)
+Facial recognition-based attendance and student verification system for secure campus access and automated attendance tracking.Built with **Python**, **OpenCV**, **Tkinter**,**NumPy**, **Pillow**, **LBPH** and **MySQL**, this system uses deep learning for accurate face recognition and automated attendance management.
 
-### [College Event Management App](https://github.com/RAVULAAJAY/Event-Management-App)
-QR-based entry system with event registration, real-time attendance tracking, and automated feedback collection. Developed using **React**, **Node.js**, **MongoDB**, and **QR API**, streamlining event organization and visitor management.
+### [Digital Farm Management Portal](https://github.com/RAVULAAJAY/Digital-Farm-Management-Portal.git)
+A digital livestock management system that enables farmers, veterinarians, laboratories, and regulators to monitor treatments, compliance, and animal health efficiently. **React**, **TypeScript**, **TanStack**, and **Firebase**,**Tailwind CSS**, 
 
-### [Smart Campus Store App](https://github.com/RAVULAAJAY/Smart-Campus-Store)
-Marketplace platform for students to buy and sell used items with integrated QR code payment system and user ratings. Built with **React Native**, **Node.js**, **MongoDB**, and **Stripe**, enabling seamless peer-to-peer transactions on campus.
+### [Online Book Store](https://github.com/RAVULAAJAY/online-book-store.git)
+A full-stack e-commerce platform for purchasing and managing books with cart functionality, user authentication, and payment integration. Built with **React**, **React**, **Node.js**, and **MongoDB**,
 
-### [Sustainability Image Classification](https://github.com/RAVULAAJAY/Sustainability-Classification)
-Deep learning CNN model for image classification promoting environmental sustainability awareness and waste management. Developed using **Python**, **TensorFlow**, **Keras**, and **CNN**, this project leverages computer vision for ecological impact.
+### [Hire-Me](https://github.com/RAVULAAJAY/Hire-Me.git)
+An AI-powered ATS Resume Analyzer that evaluates resumes against job descriptions, generates ATS scores, identifies skill gaps, and provides personalized improvement recommendations. **React**, **Node.js**, **Express.js**,**Tailwind CSS**,and **OpenAI**,.
+
+### [Real-Time Object Detection](https://github.com/RAVULAAJAY/Real-Time-Object-Detection)
+Real-time computer vision application that detects and classifies objects from webcam feeds using YOLOv10, OpenCV, and Supervision with live annotations and confidence scoring.
+**Python**, **YOLOv10**, **OpenCV**,**Ultralytics**, **Supervision**, and **Typer**,
 
 ### [View All Projects on Portfolio](https://ravula-ajay-portfolio-website.vercel.app/)
 
